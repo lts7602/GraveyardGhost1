@@ -480,7 +480,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -666.5479, z: -252.36661, w: 0}
+  m_margin: {x: 0, y: -566.2055, z: -252.36661, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1870,7 +1870,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -38.934082, y: 94.35149, z: 0, w: -471.74768}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2102,7 +2102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8190428648840274751, guid: a1e29734a902b06449625483735cfef3, type: 3}
       propertyPath: speed
-      value: 80
+      value: 24
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8297203509616923618, guid: a1e29734a902b06449625483735cfef3, type: 3}
